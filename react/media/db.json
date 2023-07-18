@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ellis Koch",
+      "id": 6
+    },
+    {
+      "name": "Mrs. Patsy Hermiston",
+      "id": 7
+    },
+    {
+      "name": "Kristy Franecki",
+      "id": 8
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Refined Steel Bike",
+      "id": 11
+    }
+  ],
+  "photos": []
+}
